@@ -1,5 +1,5 @@
-# The Product Performance - Pizza Sales Analysis Report with Power BI and MySQL
-[Pizza Product Performance).pdf](https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-MySQL/files/15266031/Pizza.PA.1.pdf)
+# The Product Performance - Pizza Sales Analysis Report with Power BI and SQL
+[Pizza Product Performance.pdf](https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-MySQL/files/15266031/Pizza.PA.1.pdf)
 
 ## Introduction
 The purpose of this project is to help pizza business sustain and enhance their business growth. 
