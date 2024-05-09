@@ -1,5 +1,5 @@
-# The Product Performance - Pizza Sales Analysis Report with Power BI and SQL
-[Pizza Product Performance.pdf](https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-MySQL/files/15266031/Pizza.PA.1.pdf)
+# The Pizza Sales Performance Analysis Report with Power BI and SQL
+<img height="400" align="middle" srm="https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-MySQL/blob/main/Pizza%20Analysis%201.pdf">
 
 ## Introduction
 The purpose of this project is to help pizza business sustain and enhance their business growth. 
@@ -30,7 +30,9 @@ I used tructured query language (SQL) to write and query data to:
   2. Cross-validating analytical results between SQL query outputs and Power BI DAX-based calculations
   3. Documented the queries and their results in Google Docs to monitor and improve query performance and management tasks
 
-[Pizza Performance Analysis.pdf](https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-MySQL/files/15266025/Pizza.Sales.pdf)
+[Pizza Performance Analysis Report using SQL](https://docs.google.com/document/d/1wSnyjedEcRMVajsgZfbfodMxAo3hVIxO/edit)
+
+<img height="400" align="middle" srm="https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-MySQL/files/15266025/Pizza.Sales.pdf">
 
 ## Key Findings
 The following are some of the key findings from the analysis:
