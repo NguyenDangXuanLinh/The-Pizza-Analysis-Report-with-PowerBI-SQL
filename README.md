@@ -24,14 +24,17 @@ questions:
 8. What are the daily and monthly sales trends?
 9. How do sales vary across pizza categories and sizes?
 
-## Data Analysis Process and Documentation
-In the data preparation and quality assessement, the relational model is adopted to store and access structured information.
-I used tructured query language (SQL) to write and query data to:
-  1. Perform data cleaning, aggregation, and then processing tasks within Power BI.
-  2. Cross-validating analytical results between SQL query outputs and Power BI DAX-based calculations
-  3. Documented the queries and their results in Google Docs to monitor and improve query performance and management tasks
-
-[Pizza Performance Analysis Report using SQL](https://docs.google.com/document/d/1wSnyjedEcRMVajsgZfbfodMxAo3hVIxO/edit)
+## Tools and Technologies Used
+- **MySQL** - This was needed to conduct **Data Quality Assessment** and also for **Data Cleaning processes**. The relational model is adopted to store and access structured information and I used tructured query language (SQL) to write and query data to:
+    - Perform data cleaning, aggregation, and then processing tasks within Power BI.
+    - Cross-validating analytical results between SQL query outputs and Power BI DAX-based calculations
+    - Documented the queries and their results in Google Docs to monitor and improve query performance and management tasks.
+ 
+- Power BI - This tool was required to explore data and create charts, graphs, visualizations to come up with a **Sales Performance Dashboard ** for the pizza business.
+  
+## Click on the hyperlink to view the documents:
+- [Pizza Performance Analysis SQL Queries](https://docs.google.com/document/d/1wSnyjedEcRMVajsgZfbfodMxAo3hVIxO/edit?usp=sharing&ouid=107430840207084984872&rtpof=true&sd=true)
+- [Pizza Performance Analysis Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDMwMjRjMjQtYzJlNC00OTgwLWIxYmEtNDRkMjZkNjg3NDI0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 <img height="400" align="middle" srm="Pizza Analysis 2.pdf">
 
@@ -86,4 +89,8 @@ Armed with this information, some recommendations will help pizza owner maximizi
 6. **Continuous Monitoring and Adaptation**:
 Continuously monitor sales data and customer feedback will help identifing emerging trends and customer preferences.
 This will help in maintain a competitive price on the market and sustain long-term profitability.
+
+
+## Author
+- Nguyen Dang Xuan Linh - [GitHub Profile](https://github.com/NguyenDangXuanLinh)
 
