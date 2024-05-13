@@ -1,6 +1,7 @@
 # The Pizza Sales Performance Analysis Report with Power BI and SQL
 
-
+<img align=center width="100%"
+src="https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-SQL/blob/main/Pizza%20Analysis%201.png" >
 
 ## Introduction
 The purpose of this project is to help pizza business sustain and enhance their business growth. 
@@ -36,7 +37,8 @@ questions:
 - [Pizza Performance Analysis SQL Queries](https://docs.google.com/document/d/1wSnyjedEcRMVajsgZfbfodMxAo3hVIxO/edit?usp=sharing&ouid=107430840207084984872&rtpof=true&sd=true)
 - [Pizza Performance Analysis Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDMwMjRjMjQtYzJlNC00OTgwLWIxYmEtNDRkMjZkNjg3NDI0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
-<img height="400" align="middle" srm="Pizza Analysis 2.pdf">
+<img width="100%" align="middle" 
+    src="https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-SQL/blob/main/Pizza%20Analysis%202.png">
 
 ## Key Findings
 The following are some of the key findings from the analysis:
