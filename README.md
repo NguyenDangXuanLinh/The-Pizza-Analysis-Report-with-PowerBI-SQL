@@ -1,5 +1,5 @@
 # The Pizza Sales Performance Analysis Report with Power BI and SQL
-<img height="400" align="middle" srm="Pizza Analysis 1.pdf">
+<img height="400" align="middle" srm="https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-SQL/blob/main/Pizza%20Analysis%201.pdf">
 
 
 ## Introduction
@@ -33,7 +33,7 @@ I used tructured query language (SQL) to write and query data to:
 
 [Pizza Performance Analysis Report using SQL](https://docs.google.com/document/d/1wSnyjedEcRMVajsgZfbfodMxAo3hVIxO/edit)
 
-<img height="400" align="middle" srm="https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-SQL/blob/123e055868a35ee4e6e94b5eb30e6c63e6e30dc2/Pizza%20Analysis%202.pdf">
+<img height="400" align="middle" srm="https://github.com/NguyenDangXuanLinh/The-Pizza-Analysis-Report-with-PowerBI-SQL/blob/main/Pizza%20Analysis%202.pdf">
 
 ## Key Findings
 The following are some of the key findings from the analysis:
