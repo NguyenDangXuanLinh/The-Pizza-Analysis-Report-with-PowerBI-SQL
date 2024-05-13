@@ -1,5 +1,5 @@
 # The Pizza Sales Performance Analysis Report with Power BI and SQL
-<img height="400" align="middle" srm="Pizza Analysis 1.pdf">
+
 
 
 ## Introduction
