@@ -22,6 +22,9 @@ CAST(CAST(SUM(quantity) AS DECIMAL(10,2)) /
 CAST(COUNT(DISTINCT(order_id)) AS DECIMAL(10,2)) AS DECIMAL(10,2)) AS Avg_Pizza_Per_Order
 FROM pizza_sales;
 
+
+# Total Orders Trends 
+	
 -- Daily Trends for Total Orders
 --Convert order_date column’s data type to Datetime--
 UPDATE pizza_sales
@@ -33,13 +36,16 @@ SELECT DATE_FORMAT(order_date, "%W") AS Order_Day,
 GROUP BY DATE_FORMAT(order_date, "%W")
 ORDER Total_Orders DESC;
 
--- Hourly Trend for Total Orders:
+-- Montlyly Trends for Total Orders:
 SELECT DATE_FORMAT (order_date, "%M") AS Month_Name, 
     COUNT(DISTINCT order_id) AS Total_Orders
   FROM pizza_sales
 GROUP BY DATE_FORMAT (order_date, "%M")
 ORDER BY Total_Orders DESC;
 
+
+# Percentage of Sales
+	
 -- Percentage of Sales by Pizza Category:
 SELECT  pizza_category,
 		CAST(SUM(total_price) AS DECIMAL( 10,2) ) AS Total_sales,
@@ -60,6 +66,8 @@ FROM pizza_sales
 GROUP BY pizza_size
 ORDER BY PTC DESC;
 
+# Total Pizza Sold
+	
 -- Total of Pizzas Sold by Category (per month):
 SELECT	pizza_category, 
 		CAST(SUM(quantity) AS DECIMAL(10,2)) AS Total_sales
@@ -68,6 +76,9 @@ FROM pizza_sales
 WHERE MONTH(order_date) = 2
 GROUP BY pizza_category;
 
+
+# Top and Bottom Sales Performances
+	
 -- Top 5 Pizzas By Revenue:
 SELECT  pizza_name,
 		SUM(total_price) AS Total_Revenue
