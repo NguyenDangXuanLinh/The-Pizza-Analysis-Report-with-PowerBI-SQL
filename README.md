@@ -1,4 +1,4 @@
-# The Pizza Sales Performance Analysis Report with Power BI and SQL
+# Pizza Sales Performance Analysis with Power BI and SQL
 
  <img width="45%" src="images/Pizza Analysis 1.png" align="left">  <img width="45%" src="images/Pizza Analysis 2.png" align="middle" >
 
